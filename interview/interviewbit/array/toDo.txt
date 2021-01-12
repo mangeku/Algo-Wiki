@@ -1,0 +1,4 @@
+rotate matrix -- array
+repeat and missing number -- array
+n3 repeat number -- array 
+maximum area of triangle -- array
